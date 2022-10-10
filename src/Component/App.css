@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: auto;
+}
+.lists{
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  justify-content: space-around;
+  margin: auto;
+}
+button{
+  width: 10%;
+  margin-left: 45%;
+  top: 100px;
+}
+
+
+
+
+
+
